@@ -26,4 +26,7 @@ You can install the required dependencies using:
 ```bash
 pip install numpy
 ```
-
+You can also visit my medium article that I've written on Gradient Descent
+```
+https://medium.com/@tswetha3188/what-is-actually-gradient-descent-ec8aa670ead1
+```
